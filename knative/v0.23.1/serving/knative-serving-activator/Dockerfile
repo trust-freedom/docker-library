@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:13e2cfb5b5d580a50fc22ae82caaeaa2f45fb88fd589aae4428d458bc64d8012
+MAINTAINER freedom124
