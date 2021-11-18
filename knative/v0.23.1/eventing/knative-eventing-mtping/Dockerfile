@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:5a530c3b1e8c5d52a23cd821d6876b47c087a67fae6a2e2ca565eacc378443a8
+MAINTAINER freedom124
