@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:a0b689e8fd94720552526f15ea0d805f442d1da35da5ae1d91229e6c1ae6038a
+MAINTAINER freedom124
