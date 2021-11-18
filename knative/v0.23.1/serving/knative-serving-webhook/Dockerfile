@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:f58612e64b8f1e5e456c56b6ac234e3028d9abf8514324391e46c7b893ec7afe
+MAINTAINER freedom124
