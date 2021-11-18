@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:a05495d67df04a599e73cc31fc27e1d24a96ba6763dcdce70fcb306aedb7e40a
+MAINTAINER freedom124
