@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:e336aa0b55da622873c5b9e9c8930676980ebc29aa8c6dda4d2001242e377939
+MAINTAINER freedom124
