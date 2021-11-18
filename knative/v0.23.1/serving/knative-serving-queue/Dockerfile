@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:83f6888ea9561495f67334d044ffa8ad067d251ad953358dda7ea5183390cc69
+MAINTAINER freedom124
