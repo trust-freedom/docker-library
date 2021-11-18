@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:2286b6318bc3facdabba018e8f1461c8a40ca3f768c669179b8538c7e48dce22
+MAINTAINER freedom124
