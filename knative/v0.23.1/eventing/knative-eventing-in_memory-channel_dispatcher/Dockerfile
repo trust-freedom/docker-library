@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher@sha256:5d5b4ac1152305186184ee4b0d2bedb904725a03044897a104426f1deb6d4013
+MAINTAINER freedom124
