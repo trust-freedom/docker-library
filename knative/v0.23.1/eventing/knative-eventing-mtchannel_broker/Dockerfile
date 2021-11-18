@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker@sha256:fdd41f91737e2f3836693bd11153356ed014a9b35d7ee1c8d46a6f7ca44eb146
+MAINTAINER freedom124

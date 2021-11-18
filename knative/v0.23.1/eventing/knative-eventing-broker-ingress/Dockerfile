@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:cceb096f119a401ca6d447d8590eb9a6888e73a2ead313b0b4241ef44b61014e
+MAINTAINER freedom124
