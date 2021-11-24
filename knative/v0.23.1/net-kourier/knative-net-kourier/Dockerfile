@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier@sha256:3f6b8df580ae1882df714c67d6a30137bb5790b223cab092dbb39970c9ce9a66
+MAINTAINER freedom124
